@@ -1,2 +1,2 @@
 # genz
-This is a landing simple landing page
+This is a simple landing page
